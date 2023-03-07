@@ -1,2 +1,2 @@
-# Screenshot of the form submitting:
+# Screenshot of the submitting form:
 ![Exercice](f1.jpg)
